@@ -1,1 +1,3 @@
-console.log("server is running");
+function hey(){
+    console.log('Hey there!');
+}
